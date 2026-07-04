@@ -1,7 +1,6 @@
 name: lyapunov-swarm-api
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python=3.10
   - numpy
